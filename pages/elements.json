@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Botines de futbol",
+        "image": "https://redsport.vteximg.com.br/arquivos/ids/1024870-1000-1000/GA077071121.jpg?v=637201624582670000",
+        "description":"Los mejores botines del mercado al mejor precio."
+    },
+    {
+        "title": "Guantes de arquero",
+        "image": "https://redsport.vteximg.com.br/arquivos/ids/1096792-1000-1000/GUANTE-DE-ARQUERO-ADIDAS-PRED-GL-MTC-UNISEX.jpg?v=637746509605470000",
+        "description": "Con estos guantes podrás atrapar todos los balones que que disparen a tu arco"
+    },
+    {
+        "title": "Camiseta barsa",
+        "image": "https://static.nike.com/a/images/t_default/3712faa8-d7c6-4078-ac06-adff9fe6508d/primera-equipacion-stadium-fc-barcelona-2022-23-camiseta-de-futbol-dri-fit-Hn9LCv.png",
+        "description": "Camiseta oficial barcelona fc 2021 edición limitada"
+    }      
+]
